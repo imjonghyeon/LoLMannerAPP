@@ -2,6 +2,8 @@
 
 MAIN : Look up manner scores for each LOL(leagueoflegends) user
  - Report abusive language that Riot can't catch and look up the personality level of the user
+ - App use RIOT API DATA , User Search And League Data
+ - User name data from riot matches app user data
 
 USING Upload
  1. Play game and Take a Picture Abusive Chat 
